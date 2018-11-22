@@ -1,0 +1,46 @@
+* Needed
+#+BEGIN_SRC bash
+  # yay
+  # emacs
+  # python
+  # polybar
+  # i3-gaps
+  # rofi
+  # fish
+  # chromium
+  # nautilus
+  # htop
+  # pulseaudio
+  # lxdm
+  # kitty
+  # alacritty
+  # cmake
+  # fcitx
+  # Arc-theme
+  # mlocate
+  # feh
+  # noto-fonts-emoji
+  # ttf-font-awesome
+  # adobe-source-code-pro-fonts
+  # ttf-monaco
+  # numix-icon-theme-git
+  # i3lock-wrapper
+  # otf-fira-code
+  # compton
+  # unrar
+  # zip
+  # unzip
+  # openssh
+  # glances
+  # iftop
+  # screenfetch
+  # tree
+  # wget
+  # net-tools
+  # git
+  # tmux
+  # wqy-zenhei wqy-microhei
+  # ttf-dejavu
+  # adobe-source-han-sans-cn-fonts
+  # xf86-video-vesa
+#+END_SRC

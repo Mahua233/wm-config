@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+# Note: this is a sample and will not be run as is.
+
+# Kills all processes when logout.
+ps --user $USER | egrep -v "ssh|screen" | cut -b11-15 | xargs -t kill
+
+xsetroot -solid black
